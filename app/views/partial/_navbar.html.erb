@@ -10,7 +10,9 @@
           <%= link_to "投稿", "#", class: "btn btn-primary" %>
         </li>
         <li>
-          <%= link_to "", user_path(current_user), class: "nav-link commonNavIcon profile-icon" %>
+          <% if current_user %>
+            <%= link_to "", user_path(current_user), class: "nav-link commonNavIcon profile-icon" %>
+          <% end %>
         </li>
       </ul>
     </div>
