@@ -6,8 +6,6 @@
 <a>　</a>
   <a href="https://jp.vuejs.org/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" height="80px;" /></a>
 <a>　</a>
- 
-<br><br><br>
 </p>
 
 <br>
@@ -22,9 +20,7 @@
 
 ## 📱 Usage
 
-<h3> Docker未導入の方はこちらからDockerをダウンロードしてください。　</h3>
-  
-  <h3>→<a href="https://docs.docker.com/get-docker/">こちら</a></h3>
+<h4> ⚠️Docker未導入の方はこちらからDockerをダウンロードしてください。→<a href="https://docs.docker.com/get-docker/">こちら</a></h4>
 
 `$ git clone https://github.com/kajirita2002/meshi_dori.git`
 
@@ -49,7 +45,7 @@
  
 <br>
 
-<h3>デプロイ版　→　<a href="https://meshidori.herokuapp.com/users/sign_in">こちら</a><h3>
+<h4>デプロイ版　→　<a href="https://meshidori.herokuapp.com/users/sign_in">こちら</a><h4>
 
 
 
