@@ -12,13 +12,19 @@
 
 ## 👄 Overview
 
-<h3>美味しいごはんを投稿することができます。</h3>
-<h3>いい投稿には『いいね』したり、コメントを送ったりできるアプリです。</h3>
+<h4>美味しいごはんを投稿することができます。</h4>
+<h4>いい投稿には『いいね』したり、コメントを送ったりできるアプリです。</h4>
+<h4>言語はRuby on Rails、環境構築はDocker+MySQLで行い、 </h4>
+<h4>UIはBootStrapを利用して作り,Herokuでデプロイしました。</h4>
 
 
 <br>
 
 ## 📱 Usage
+
+<h4>デプロイ版(Heroku) →　<a href="https://meshidori.herokuapp.com/users/sign_in">こちら</a><h4>
+  
+<br>
 
 <h4> ⚠️Docker未導入の方はこちらからDockerをダウンロードしてください。→<a href="https://docs.docker.com/get-docker/">こちら</a></h4>
 
@@ -43,12 +49,6 @@
 `$ docker-compose rails db:migrate`
 
  
-<br>
-
-<h4>デプロイ版　→　<a href="https://meshidori.herokuapp.com/users/sign_in">こちら</a><h4>
-
-
-
 
 <br>
 
