@@ -1,6 +1,6 @@
 [![Image from Gyazo](https://i.gyazo.com/f064f7f3e39c92cb79269d1faa60464f.jpg)](https://gyazo.com/f064f7f3e39c92cb79269d1faa60464f)
 
-<h2 align="center"></h2>
+<h2 align="center">MESHI DORI</h2>
 <p align="center">
   <a href="https://rubyonrails.org/"><img src="https://www.tcmobile.jp/dev_blog/wp-content/uploads/2015/09/022c1ca11803434db443573590757756.png" width="80px;" /></a>
 <a>　</a>
@@ -24,7 +24,7 @@
 
 <h3> Docker未導入の方はこちらからDockerをダウンロードしてください。　</h3>
   
-  <h3>→<a>https://docs.docker.com/get-docker/</a></h3>
+  <h3>→<a href="https://docs.docker.com/get-docker/">こちら</a></h3>
 
 `$ git clone https://github.com/kajirita2002/meshi_dori.git`
 
@@ -49,7 +49,7 @@
  
 <br>
 
-<h3>デプロイ版はこちら　→　<a>https://meshidori.herokuapp.com/users/sign_in</a><h3>
+<h3>デプロイ版　→　<a href="https://meshidori.herokuapp.com/users/sign_in">こちら</a><h3>
 
 
 
@@ -76,7 +76,7 @@
 
 <br>
 
-<h3>- Tweet -</h3>
+<h3>-  -</h3>
 
 <br>
 
@@ -126,9 +126,7 @@
 ### ○ Ajax機能を実装しました。（いいね機能）
 <br>
 
-[![Image from Gyazo](https://i.gyazo.com/f57c3d12825b4773fa92576f9916ea76.png)](https://gyazo.com/f57c3d12825b4773fa92576f9916ea76)
 
-<br>
 
 ## 💳 License
 
