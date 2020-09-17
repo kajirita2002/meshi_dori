@@ -132,6 +132,6 @@
 
 ## 👨 Author
 
-- [Github](https://github.com/aocattleya)
+- [Github](https://github.com/kajirita2002)
 
 - [FB](https://www.facebook.com/rita.kajimura.1/)
