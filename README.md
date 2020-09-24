@@ -3,9 +3,6 @@
 <h2 align="center">MESHI DORI</h2>
 <p align="center">
   <a href="https://rubyonrails.org/"><img src="https://www.tcmobile.jp/dev_blog/wp-content/uploads/2015/09/022c1ca11803434db443573590757756.png" width="80px;" /></a>
-<a>　</a>
-  <a href="https://jp.vuejs.org/index.html"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vue.png" height="80px;" /></a>
-<a>　</a>
 </p>
 
 <br>
