@@ -17,7 +17,7 @@
           <div class="mb-3">
 
             <%= f.fields_for :photos do |i| %>
-              <%= i.file_field :image %>
+              <%= i.file_field :image, name: 'ファイルをアップロード' %>
             <% end %>
 
           </div>

@@ -1,6 +1,6 @@
 FactoryBot.define do 
   factory :post do
+    id { '1' } 
     caption { 'testを書いています' }
-    user 
   end
 end
